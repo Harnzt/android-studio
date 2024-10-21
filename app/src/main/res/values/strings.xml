@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="count">Count</string>
+    <string name="toast">toast</string>
+    <string name="Raihan_Gusri_Hidayat">Raihan Gusri Hidayat</string>
+    <string name="_0">0</string>
+    <string name="article_title">Suzuki Swace : Suzuki Wagon, Aslinya Corolla Estate!</string>
+    <string name="article_subtitle">by Raihan Gusri Hidayat - 26 Sep 2024, Jakarta</string>
+    <string name="article_text">AutonetMagz.com – Belum lama kita kedatangan Toyota Corolla Cross, dan di video Toyota Corolla Cross kami menyebutkan bahwa Corolla memang punya banyak bentuk selain Corolla Cross yang berbentuk crossover. Ada Corolla sedan yang kita kenal sebagai Corolla Altis, ada juga Corolla hatchback yang tidak akan masuk ke Indonesia, ada minibus atau MPV yang kita kenal sebagai Corolla Verso dan ada juga estate atau station wagon, namanya Corolla Fielder.
+    Fokus ke yang terakhir, yakni Corolla Estate atau station wagon. Meski Toyota sudah tidak pakai nama Fielder, namun Corolla station wagon eksis di Eropa. Nah, perlu diingat juga kalau Toyota belakangan sedang ada kerja sama dengan Suzuki, dan salah satu wujudnya adalah Toyota meminjam Baleno hatchback untuk dijual di India sebagai Toyota Starlet atau Glanza. Suzuki sendiri sudah meminjam Toyota RAV4 untuk dijual sebagai Suzuki Across di Eropa.
+    Sampai situ saja? Tidak. Beberapa menit yang lalu, Suzuki resmi memperkenalkan Suzuki Swace sebagai station wagon atau estate mereka untuk pasar Eropa. Kami sangat familiar dengan bentuk Suzuki Swace, karena mobil ini aslinya hanya Toyota Corolla Estate yang logo Toyotanya diganti logo Suzuki. Wah, ini sih SRT ya, Suzuki Rasa Toyota. Jangan-jangan nama Swace pun merujuk ke Corolla Estate. Coba deh, Swace. SWACE : Suzuki Wagon, Aslinya Corolla Estate. Hmm…
+    Antara Suzuki Swace dan Toyota Corolla Estate, perbedaan eksteriornya hanya di bumper depan saja. Model pelek juga sedikit beda, namun selebihnya bisa dibilang sama saja. Yaa… Ibarat kembar Avanza-Xenia, Rush-Terios, Agya-Ayla, Calya-Sigra dan Rocky-Raize begitu deeh… Pada bagian interior, perbedaan benar-benar hanya logo Toyota di setir yang kini diganti logo Suzuki. Sisanya, sama saja antara Corolla dan Swace.
+    Fitur pun sama lengkapnya, sebab Suzuki Swace versi Eropa akan dilengkapi dengan fasilitas Apple CarPlay dan Android Auto sebagai standar, termasuk fitur wireless charging. Ada juga panel instrumen kombinasi analog-digital seperti di Corolla Altis Hybrid. Ada juga 3 mode berkendara yang bisa dipilih mulai dari Eco, Normal dan Sport. Kabin belakangnya terlihat lega untuk 3 orang, dan bagasi berkapasitas 596 liter tentu saja cocok untuk keluarga.
+    Suzuki Swace akan meminjam mesin 1.800 cc 4 silinder hybrid yang sama dengan milik Corolla Hybrid, dengan tenaga kira-kira 122 PS dan torsi 142 Nm. Akselerasi 0-100 km/jam paling tidak dapat di angka 11,1 detik dan kecepatan maksimum di angka 180 km/jam. Untuk irit-iritan, nampaknya tidak usah ragu soal teknologi hybrid Toyota yang dipinjam Suzuki, sebab di Prius kami pernah mencatat sekitar 18 hingga 20 km per liter di rute Kelapa Gading.
+    Sama halnya dengan mobil hybrid Toyota, Suzuki Swace juga bisa berjalan dengan tenaga listrik saja namun hanya untuk jarak pendek. Fitur keselamatan lengkap dari Toyota Safety Sense juga dibenamkan di Suzuki Swace, mulai dari Simple-Intelligent Parking Assist (S-IPA); Pre-Collision System (PCS); Lane Tracing Assist (LTA); Road Sign Assist (RSA); Dynamic Radar Cruise Control (DRCC); Blind Spot Monitor (BSM) dan Rear Crossing Traffic Alert (RCTA).
+    Satu-satunya pilihan transmisi yang tersedia hanyalah CVT, dan sejauh ini tidak ada informasi apakah ada pilihan AWD atau hanya ada FWD saja. Suzuki Swace sendiri akan diproduksi di pabrik Toyota Burnaston, dan penjualannya diklaim mulai sekitar akhir tahun 2020 ini di Eropa. Bagaimana, apa opinimu soal Suzuki Swace yang jadi kembaran Toyota Corolla Estate ini? Kira-kira mobil Toyota mana lagi yang akan di-rebadge oleh Suzuki? Sampaikan opinimu di kolom komentar!</string>
+    <string name="ibbawahkiri">ibbawahkiri</string>
+    <string name="btnataskiri">Home</string>
+    <string name="btnataskanan">Scrolling</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="edittext_main">Enter Your Message Here</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_second">Reply</string>
+    <string name="edittext_second">Enter Your Reply Here</string>
+    <string name="button_main">send</string>
+</resources>
