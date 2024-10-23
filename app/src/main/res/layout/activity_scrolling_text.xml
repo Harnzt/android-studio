@@ -39,6 +39,7 @@
                 android:layout_below="@+id/article_heading"
                 android:padding="@dimen/padding_regular"
                 android:text="@string/article_subtitle"
+                android:textColor="#848B8F"
                 android:textAppearance="@android:style/TextAppearance.DeviceDefault" />
 
             <TextView
@@ -50,7 +51,7 @@
                 android:lineSpacingExtra="@dimen/line_spacing"
                 android:padding="@dimen/padding_regular"
                 android:text="@string/article_text"
-                />
+                android:textColor="@color/black"/>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

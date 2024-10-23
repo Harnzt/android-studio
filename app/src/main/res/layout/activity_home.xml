@@ -11,11 +11,12 @@
 
     <ImageButton
         android:id="@+id/btnataskiri"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:layout_marginStart="49dp"
         android:layout_marginTop="60dp"
-        android:src="@drawable/ambawick"
+        android:src="@drawable/number1"
+        android:background="@color/white"
         android:onClick="openMain"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -23,21 +24,23 @@
 
     <ImageButton
         android:id="@+id/btnataskanan"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:layout_marginTop="60dp"
         android:layout_marginEnd="49dp"
-        android:src="@drawable/recap"
+        android:src="@drawable/number4"
+        android:background="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:onClick="openscrolling"/>
 
     <ImageButton
         android:id="@+id/ibbbawahkanan"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:layout_marginStart="49dp"
-        android:src="@drawable/recap"
+        android:src="@drawable/number3"
+        android:background="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ibbawahkiri"
@@ -46,10 +49,11 @@
 
     <ImageButton
         android:id="@+id/ibbawahkiri"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:layout_marginStart="49dp"
-        android:src="@drawable/ambawick"
+        android:src="@drawable/number2"
+        android:background="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnataskiri"
@@ -58,10 +62,11 @@
 
     <ImageButton
         android:id="@+id/tombolexit"
-        android:layout_width="130dp"
-        android:layout_height="130dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:layout_marginEnd="49dp"
-        android:src="@drawable/recap"
+        android:src="@drawable/logout"
+        android:background="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnataskanan"
