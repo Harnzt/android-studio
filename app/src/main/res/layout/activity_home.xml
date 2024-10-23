@@ -11,8 +11,8 @@
 
     <ImageButton
         android:id="@+id/btnataskiri"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
         android:layout_marginStart="49dp"
         android:layout_marginTop="60dp"
         android:src="@drawable/ambawick"
@@ -23,8 +23,8 @@
 
     <ImageButton
         android:id="@+id/btnataskanan"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
         android:layout_marginTop="60dp"
         android:layout_marginEnd="49dp"
         android:src="@drawable/recap"
@@ -34,8 +34,8 @@
 
     <ImageButton
         android:id="@+id/ibbbawahkanan"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
         android:layout_marginStart="49dp"
         android:src="@drawable/recap"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -46,8 +46,8 @@
 
     <ImageButton
         android:id="@+id/ibbawahkiri"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
         android:layout_marginStart="49dp"
         android:src="@drawable/ambawick"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -58,8 +58,8 @@
 
     <ImageButton
         android:id="@+id/tombolexit"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
         android:layout_marginEnd="49dp"
         android:src="@drawable/recap"
         app:layout_constraintBottom_toBottomOf="parent"
