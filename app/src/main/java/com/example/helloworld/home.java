@@ -29,8 +29,12 @@ public class home extends AppCompatActivity {
         startActivity(intentScrolling);
     }
 
-    public void mainView(View view) {
-        Intent intentScrolling = new Intent(this, MainActivity.class);
+    public void firstView(View view) {
+        Intent intentScrolling = new Intent(this, first.class);
         startActivity(intentScrolling);
+    }
+
+    public void Exit(View view) {
+        finishAffinity();
     }
 }

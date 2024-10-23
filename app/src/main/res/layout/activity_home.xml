@@ -5,54 +5,68 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".home">
+    tools:context=".home"
+    android:background="@color/white"
+    >
 
-    <Button
+    <ImageButton
         android:id="@+id/btnataskiri"
-        android:layout_width="140dp"
-        android:layout_height="245dp"
-        android:layout_marginStart="48dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="49dp"
         android:layout_marginTop="60dp"
+        android:src="@drawable/ambawick"
         android:onClick="openMain"
-        android:text="@string/btnataskiri"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         />
 
-    <Button
+    <ImageButton
         android:id="@+id/btnataskanan"
-        android:layout_width="140dp"
-        android:layout_height="245dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:layout_marginTop="60dp"
-        android:layout_marginEnd="36dp"
-        android:text="@string/btnataskanan"
+        android:layout_marginEnd="49dp"
+        android:src="@drawable/recap"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:onClick="openscrolling"/>
 
     <ImageButton
         android:id="@+id/ibbbawahkanan"
-        android:layout_width="146dp"
-        android:layout_height="252dp"
-        android:layout_marginEnd="36dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="49dp"
         android:src="@drawable/recap"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnataskanan"
-        app:layout_constraintVertical_bias="0.511"
-        android:onClick="mainView"/>
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ibbawahkiri"
+        app:layout_constraintVertical_bias="0.2"
+        android:onClick="firstView"/>
 
     <ImageButton
         android:id="@+id/ibbawahkiri"
-        android:layout_width="146dp"
-        android:layout_height="252dp"
-        android:layout_marginStart="48dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="49dp"
         android:src="@drawable/ambawick"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnataskiri"
-        app:layout_constraintVertical_bias="0.511"
-        android:tooltipText="@string/ibbawahkiri"
+        app:layout_constraintVertical_bias="0.1"
         android:onClick="toastView"/>
+
+    <ImageButton
+        android:id="@+id/tombolexit"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginEnd="49dp"
+        android:src="@drawable/recap"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnataskanan"
+        app:layout_constraintVertical_bias="0.1"
+        android:onClick="Exit"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
